@@ -1,9 +1,3 @@
-chaine = "abcdefghijklmnopqrstuvwxyz" * 10
-
-
-nombre_total_caracteres = 50
-
-
 chaine = "abcdefghijklmnopqrstuvwxyz"
 n = 10
 
